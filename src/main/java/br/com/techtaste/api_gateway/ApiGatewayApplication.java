@@ -13,7 +13,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  *
  * @author TechTaste
  * @version 1.0
+ * 
  */
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class ApiGatewayApplication {
